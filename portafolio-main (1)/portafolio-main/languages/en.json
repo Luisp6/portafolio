@@ -1,0 +1,40 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hello! I'm",
+        "home_text-3": "Systems Engineer",
+        "parrafo-info": "I am a Systems Engineer with experience in automation and frontend web development. I am passionate about creating projects with intuitive and aesthetically pleasing designs to offer the best possible user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About Me",
+        "texto_aboutMe": "Hello! I am a Systems Engineer specialized in automation, with solid experience in web development and a focus on Frontend programming.<br>My goal is to advance in the professional world of Web Development to continue gaining experience, expanding my knowledge, and strengthening my career. I am eager to face new challenges and learn from every opportunity that arises.<br><br>In addition, I have extensive experience as an automator using Power Platform and Power Apps. These tools allow me to efficiently and effectively create automated business solutions.<br><br>As a systems engineering professional, I have a strong technical foundation that complements my skills in Web Development. This unique combination allows me to approach projects from both a technical and analytical perspective.<br><br>I am an empathetic and enthusiastic person, which facilitates effective teamwork and assertive communication. My proactive approach and problem-solving ability allow me to confidently face challenges and find creative solutions.<br><br>I am committed to my professional growth and enjoy learning from my peers and continuously improving myself. I am excited for the opportunity to contribute and grow in the field of Web Development while continuing to pursue my passion for automation and technological innovation."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Education",
+        "education1": "Systems Engineer",
+        "time-education1": "2017 - 2023",
+        "education2": "Software Programming Technician",
+        "time-education2": "2020 - 2023"
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

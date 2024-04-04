@@ -1,0 +1,41 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Ing de sistemas",
+        "parrafo-info": "Soy Ingeniero de Sistemas con experiencia en automatización y programación centrada en el Desarrollo Web Frontend. Me apasiona crear proyectos con diseños intuitivos y estéticamente agradables para ofrecer la mejor experiencia posible al usuario.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "¡Hola! Soy un Ingeniero de Sistemas experto en automatización, con una sólida experiencia en el desarrollo web y un enfoque especializado en la programación Frontend.<br>Mi objetivo es avanzar en el mundo profesional del Desarrollo Web para seguir adquiriendo experiencia, ampliando mis conocimientos y fortaleciendo mi carrera. Estoy ansioso por enfrentar nuevos desafíos y aprender de cada oportunidad que se presente.<br><br>Además, cuento con una amplia experiencia como automatizador utilizando Power Platform y Power Apps. Estas herramientas me permiten crear soluciones empresariales automatizadas de manera eficiente y efectiva.<br><br>Como profesional de la ingeniería de sistemas, tengo una sólida base técnica que complementa mis habilidades en Desarrollo Web. Esta combinación única me permite abordar proyectos desde una perspectiva tanto técnica como analítica.<br><br>Soy una persona empática y entusiasta, lo que me facilita trabajar eficazmente en equipo y comunicarme de manera asertiva. Mi enfoque proactivo y mi capacidad para resolver problemas me permiten enfrentar desafíos con confianza y encontrar soluciones creativas.<br><br>Estoy comprometido con mi crecimiento profesional y disfruto aprendiendo de mis compañeros y superándome continuamente. Estoy emocionado por la oportunidad de contribuir y crecer en el campo del Desarrollo Web mientras sigo persiguiendo mi pasión por la automatización y la innovación tecnológica."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingeniero De Sistemas",
+        "tiempo-formacion1": "2017 - 2023",
+        "formacion2": "Técnico en Programación de Software",
+        "tiempo-formacion2": "2020 - 2023"
+    },
+
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
